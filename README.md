@@ -30,13 +30,6 @@
 **MyGO!!!!!**、**EVA**、**葬送的芙莉莲**、**紫罗兰永恒花园**、**四月是你的谎言**、**孤独摇滚！**。
 
 
-## 📊 GitHub 数据
-
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Cle2333&show_icons=true&hide_border=true&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cle2333&layout=compact&hide_border=true&hide=html,css" />
-</p>
-
 ## 📮 找到我
 
 - 视频账号：抖音 / B站 / 小红书 → **Derbeen**
