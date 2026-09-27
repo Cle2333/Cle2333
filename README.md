@@ -19,7 +19,7 @@
 | **[whale-widget](https://github.com/Cle2333/iPodWithNeteaseCloudMusic)** | DeepSeek 余额桌面挂件，免 API key 还能读到程序启动前的消费 | Electron · 成品 EXE 69MB |
 
 
-## 🍥 看过的番
+## 🍥 看过的番(部分)
 
 MyGO!!!!!、EVA、葬送的芙莉莲、紫罗兰永恒花园、四月是你的谎言、孤独摇滚！
 
